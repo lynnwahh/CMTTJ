@@ -1,0 +1,159 @@
+2023-03-09 20:17:55,711	log_infos      	1040	INFO    	39412:	Explanation
+#######################	###############	####	########	######	###########################################
+YYYY-MM-DD HH:MM:SS,mmm	function name  	 lNr	level   	  PID:	Message (lNr: line number, PID: Process ID)
+#######################	###############	####	########	######	###########################################
+
+2023-03-09 20:20:05,067	log_infos      	1040	INFO    	38676:	Explanation
+#######################	###############	####	########	######	###########################################
+YYYY-MM-DD HH:MM:SS,mmm	function name  	 lNr	level   	  PID:	Message (lNr: line number, PID: Process ID)
+#######################	###############	####	########	######	###########################################
+2023-03-09 20:20:05,067	log_infos      	1046	WARNING 	38676:	Test settings enabled
+2023-03-09 20:20:05,067	log_infos      	1050	WARNING 	38676:	Old .csv result lists will be overwritten
+2023-03-09 20:20:05,067	log_infos      	1054	WARNING 	38676:	Manually selecting files disabled due to debugging
+2023-03-09 20:20:05,067	log_infos      	1061	INFO    	38676:	Settings file location: D:\Projects\YSMR_CellSeg\swarm_setting.ini
+2023-03-09 20:20:05,067	log_infos      	1064	INFO    	38676:	Logfile location: D:\Projects\YSMR_CellSeg\logfile.log
+2023-03-09 20:20:05,067	log_infos      	1066	INFO    	38676:	Verbose enabled, logging set to debug.
+2023-03-09 20:20:05,067	log_infos      	1071	INFO    	38676:	Displaying videos
+2023-03-09 20:20:05,067	log_infos      	1078	INFO    	38676:	Using adaptive double threshold: initial threshold offset: 5; threshold offset for markers: 7.0
+2023-03-09 20:20:05,067	log_infos      	1096	INFO    	38676:	GSFF settings: number: 3, minimum: 0, maximum: 30
+2023-03-09 20:20:05,067	log_infos      	1099	INFO    	38676:	Saving detection video files
+2023-03-09 20:20:05,067	log_infos      	1108	INFO    	38676:	Maximal track length for evaluation set to 20.0 s
+2023-03-09 20:20:05,067	log_infos      	1118	DEBUG   	38676:	White bacteria on dark background set to True
+2023-03-09 20:20:05,067	log_infos      	1119	DEBUG   	38676:	List save length set to 10000 entries
+2023-03-09 20:20:05,067	log_infos      	1120	DEBUG   	38676:	Pixel/micrometre: 1.41888781
+2023-03-09 20:20:05,067	log_infos      	1122	DEBUG   	38676:	tracking.ini settings:
+2023-03-09 20:20:05,067	log_infos      	1124	DEBUG   	38676:	pixel per micrometre: 1.41888781
+2023-03-09 20:20:05,068	log_infos      	1124	DEBUG   	38676:	frames per second: 47.9
+2023-03-09 20:20:05,068	log_infos      	1124	DEBUG   	38676:	frame height: 600
+2023-03-09 20:20:05,068	log_infos      	1124	DEBUG   	38676:	frame width: 600
+2023-03-09 20:20:05,068	log_infos      	1124	DEBUG   	38676:	white bacteria on dark background: True
+2023-03-09 20:20:05,068	log_infos      	1124	DEBUG   	38676:	rod shaped bacteria: True
+2023-03-09 20:20:05,068	log_infos      	1124	DEBUG   	38676:	threshold offset for detection: 5
+2023-03-09 20:20:05,068	log_infos      	1124	DEBUG   	38676:	minimal length in seconds: 0.0
+2023-03-09 20:20:05,068	log_infos      	1124	DEBUG   	38676:	limit track length to x seconds: 20.0
+2023-03-09 20:20:05,068	log_infos      	1124	DEBUG   	38676:	minimal angle in degrees for turning point: 30.0
+2023-03-09 20:20:05,068	log_infos      	1124	DEBUG   	38676:	extreme area outliers lower end in px*px: 0
+2023-03-09 20:20:05,068	log_infos      	1124	DEBUG   	38676:	extreme area outliers upper end in px*px: 200
+2023-03-09 20:20:05,068	log_infos      	1124	DEBUG   	38676:	user input: True
+2023-03-09 20:20:05,068	log_infos      	1124	DEBUG   	38676:	select files: True
+2023-03-09 20:20:05,068	log_infos      	1124	DEBUG   	38676:	display video analysis: True
+2023-03-09 20:20:05,068	log_infos      	1124	DEBUG   	38676:	save video: True
+2023-03-09 20:20:05,068	log_infos      	1124	DEBUG   	38676:	rename previous result .csv: False
+2023-03-09 20:20:05,068	log_infos      	1124	DEBUG   	38676:	delete .csv file after analysis: False
+2023-03-09 20:20:05,068	log_infos      	1124	DEBUG   	38676:	store processed .csv file: True
+2023-03-09 20:20:05,068	log_infos      	1124	DEBUG   	38676:	store generated statistical .csv file: True
+2023-03-09 20:20:05,068	log_infos      	1124	DEBUG   	38676:	store final analysed .csv file: True
+2023-03-09 20:20:05,068	log_infos      	1124	DEBUG   	38676:	split results by (Turn Points / Distance / Speed / Time / Displacement / perc. motile): perc. motile
+2023-03-09 20:20:05,068	log_infos      	1124	DEBUG   	38676:	split violin plots on: [0.0, 20.0, 40.0, 60.0, 80.0, 100.01]
+2023-03-09 20:20:05,068	log_infos      	1124	DEBUG   	38676:	save large plots: True
+2023-03-09 20:20:05,068	log_infos      	1124	DEBUG   	38676:	save rose plot: True
+2023-03-09 20:20:05,068	log_infos      	1124	DEBUG   	38676:	save time violin plot: True
+2023-03-09 20:20:05,068	log_infos      	1124	DEBUG   	38676:	save acr violin plot: True
+2023-03-09 20:20:05,068	log_infos      	1124	DEBUG   	38676:	save length violin plot: True
+2023-03-09 20:20:05,068	log_infos      	1124	DEBUG   	38676:	save turning point violin plot: True
+2023-03-09 20:20:05,068	log_infos      	1124	DEBUG   	38676:	save speed violin plot: True
+2023-03-09 20:20:05,068	log_infos      	1124	DEBUG   	38676:	save angle distribution plot / bins: 36
+2023-03-09 20:20:05,068	log_infos      	1124	DEBUG   	38676:	save displacement violin plot: True
+2023-03-09 20:20:05,068	log_infos      	1124	DEBUG   	38676:	save percent motile plot: True
+2023-03-09 20:20:05,068	log_infos      	1124	DEBUG   	38676:	collate results csv to xlsx: True
+2023-03-09 20:20:05,068	log_infos      	1124	DEBUG   	38676:	turning point violin plot min: 0.0
+2023-03-09 20:20:05,068	log_infos      	1124	DEBUG   	38676:	turning point violin plot max: False
+2023-03-09 20:20:05,068	log_infos      	1124	DEBUG   	38676:	length violin plot min: 0.0
+2023-03-09 20:20:05,068	log_infos      	1124	DEBUG   	38676:	length violin plot max: False
+2023-03-09 20:20:05,068	log_infos      	1124	DEBUG   	38676:	speed violin plot min: 0.0
+2023-03-09 20:20:05,068	log_infos      	1124	DEBUG   	38676:	speed violin plot max: False
+2023-03-09 20:20:05,068	log_infos      	1124	DEBUG   	38676:	time violin plot min: 0.0
+2023-03-09 20:20:05,068	log_infos      	1124	DEBUG   	38676:	time violin plot max: False
+2023-03-09 20:20:05,068	log_infos      	1124	DEBUG   	38676:	displacement violin plot min: 0.0
+2023-03-09 20:20:05,068	log_infos      	1124	DEBUG   	38676:	displacement violin plot max: False
+2023-03-09 20:20:05,068	log_infos      	1124	DEBUG   	38676:	percent motile plot min: 0.0
+2023-03-09 20:20:05,068	log_infos      	1124	DEBUG   	38676:	percent motile plot max: 100.0
+2023-03-09 20:20:05,068	log_infos      	1124	DEBUG   	38676:	acr violin plot min: 0.0
+2023-03-09 20:20:05,069	log_infos      	1124	DEBUG   	38676:	acr violin plot max: 1.0
+2023-03-09 20:20:05,069	log_infos      	1124	DEBUG   	38676:	log to file: True
+2023-03-09 20:20:05,069	log_infos      	1124	DEBUG   	38676:	log file path: ./logfile.log
+2023-03-09 20:20:05,069	log_infos      	1124	DEBUG   	38676:	shorten displayed logging output: False
+2023-03-09 20:20:05,069	log_infos      	1124	DEBUG   	38676:	shorten logfile logging output: False
+2023-03-09 20:20:05,069	log_infos      	1124	DEBUG   	38676:	set logging level (debug/info/warning/critical): debug
+2023-03-09 20:20:05,069	log_infos      	1124	DEBUG   	38676:	log_level: 10
+2023-03-09 20:20:05,069	log_infos      	1124	DEBUG   	38676:	verbose: True
+2023-03-09 20:20:05,069	log_infos      	1124	DEBUG   	38676:	include luminosity in tracking calculation: False
+2023-03-09 20:20:05,069	log_infos      	1124	DEBUG   	38676:	color filter: 6
+2023-03-09 20:20:05,069	log_infos      	1124	DEBUG   	38676:	minimal frame count: 20
+2023-03-09 20:20:05,069	log_infos      	1124	DEBUG   	38676:	stop evaluation on error: False
+2023-03-09 20:20:05,069	log_infos      	1124	DEBUG   	38676:	list save length interval: 10000
+2023-03-09 20:20:05,069	log_infos      	1124	DEBUG   	38676:	save video file extension: .mp4
+2023-03-09 20:20:05,069	log_infos      	1124	DEBUG   	38676:	save video fourcc codec: mp4v
+2023-03-09 20:20:05,069	log_infos      	1124	DEBUG   	38676:	adaptive double threshold: 2.0
+2023-03-09 20:20:05,069	log_infos      	1124	DEBUG   	38676:	maximal consecutive holes: 5
+2023-03-09 20:20:05,069	log_infos      	1124	DEBUG   	38676:	maximal empty frames in %: 1.05
+2023-03-09 20:20:05,069	log_infos      	1124	DEBUG   	38676:	percent quantiles excluded area: 0.1
+2023-03-09 20:20:05,069	log_infos      	1124	DEBUG   	38676:	try to omit motility outliers: True
+2023-03-09 20:20:05,069	log_infos      	1124	DEBUG   	38676:	stop excluding motility outliers if total count above percent: 0.05
+2023-03-09 20:20:05,069	log_infos      	1124	DEBUG   	38676:	exclude measurement when above x times average area: False
+2023-03-09 20:20:05,069	log_infos      	1124	DEBUG   	38676:	average width/height ratio min.: 0.125
+2023-03-09 20:20:05,069	log_infos      	1124	DEBUG   	38676:	average width/height ratio max.: 0.67
+2023-03-09 20:20:05,069	log_infos      	1124	DEBUG   	38676:	percent of screen edges to exclude: 0.05
+2023-03-09 20:20:05,069	log_infos      	1124	DEBUG   	38676:	maximal recursion depth: 960
+2023-03-09 20:20:05,069	log_infos      	1124	DEBUG   	38676:	limit track length exactly: False
+2023-03-09 20:20:05,069	log_infos      	1124	DEBUG   	38676:	compare angle between n frames: 10
+2023-03-09 20:20:05,069	log_infos      	1124	DEBUG   	38676:	force tracking.ini fps settings: False
+2023-03-09 20:20:05,069	log_infos      	1124	DEBUG   	38676:	disable gsff: False
+2023-03-09 20:20:05,069	log_infos      	1124	DEBUG   	38676:	number of LSFFs: 3
+2023-03-09 20:20:05,069	log_infos      	1124	DEBUG   	38676:	minimum horizon size: 0
+2023-03-09 20:20:05,069	log_infos      	1124	DEBUG   	38676:	maximum horizon size: 30
+2023-03-09 20:20:05,069	log_infos      	1124	DEBUG   	38676:	previous directory: ./
+2023-03-09 20:20:05,069	log_infos      	1124	DEBUG   	38676:	shut down after analysis: False
+2023-03-09 20:20:05,069	log_infos      	1124	DEBUG   	38676:	debugging: True
+2023-03-09 20:20:05,069	log_infos      	1124	DEBUG   	38676:	path to test video: ./video/SIM+.avi
+2023-03-09 20:20:05,069	log_infos      	1124	DEBUG   	38676:	tracking_ini_filepath: D:\Projects\YSMR_CellSeg\swarm_setting.ini
+2023-03-09 20:20:05,069	log_infos      	1124	DEBUG   	38676:	perc_motile_warning: False
+2023-03-09 20:20:05,095	create_results_	 392	INFO    	38676:	Results folder: D:\Projects\YSMR_CellSeg\video\2303092020_Results
+2023-03-09 20:20:05,095	ysmr           	 233	INFO    	38676:	Path: ./video/SIM+.avi
+2023-03-09 20:20:05,096	analyse        	  59	DEBUG   	38676:	Starting process. PID: 38676
+2023-03-09 20:20:05,315	track_bacteria 	  79	INFO    	38676:	fps of file: 50.0
+2023-03-09 20:20:05,315	track_bacteria 	  97	INFO    	38676:	Starting with file ./video/SIM+.avi
+2023-03-09 20:20:05,414	track_bacteria 	 139	DEBUG   	38676:	Frame height: 600, width: 600
+2023-03-09 20:20:07,718	track_bacteria 	 172	DEBUG   	38676:	Frames from file SIM+.avi read.
+2023-03-09 20:20:07,833	get_data       	 875	INFO    	38676:	Reading file with size 684.5 KB: D:\Projects\YSMR_CellSeg\video\2303092020_Results\SIM+_list.csv 
+2023-03-09 20:20:07,856	get_data       	 915	DEBUG   	38676:	Done reading D:\Projects\YSMR_CellSeg\video\2303092020_Results\SIM+_list.csv into data frame
+2023-03-09 20:20:07,859	sort_list      	1539	DEBUG   	38676:	Sorted data frame by TRACK_ID.
+2023-03-09 20:20:07,960	save_df_to_csv 	1375	DEBUG   	38676:	Selected results saved to: D:\Projects\YSMR_CellSeg\video\2303092020_Results\SIM+_list.csv
+2023-03-09 20:20:07,960	track_bacteria 	 395	INFO    	38676:	Average frames analysed per second:  35.76, objects:    144, frames:     64 of     65, csv: D:\Projects\YSMR_CellSeg\video\2303092020_Results\SIM+_list.csv
+2023-03-09 20:20:07,963	metadata_file  	1308	DEBUG   	38676:	Searching for meta file in path: D:\Projects\YSMR_CellSeg\video\2303092020_Results\SIM+_meta.json
+2023-03-09 20:20:07,964	metadata_file  	1308	DEBUG   	38676:	Searching for meta file in path: D:\Projects\YSMR_CellSeg\video\SIM+_meta.json
+2023-03-09 20:20:07,964	metadata_file  	1308	DEBUG   	38676:	Searching for meta file in path: ./video/SIM+_meta.json
+2023-03-09 20:20:07,972	analyse        	 111	DEBUG   	38676:	fps: 50.0
+2023-03-09 20:20:07,972	analyse        	 111	DEBUG   	38676:	frame_height: 600
+2023-03-09 20:20:07,972	analyse        	 111	DEBUG   	38676:	frame_width: 600
+2023-03-09 20:20:07,972	select_tracks  	 555	DEBUG   	38676:	Have accepted string ./video/SIM+.avi
+2023-03-09 20:20:07,993	select_tracks  	 620	DEBUG   	38676:	Starting to set NaNs
+2023-03-09 20:20:08,005	select_tracks  	 654	DEBUG   	38676:	Dropping NaN values from df
+2023-03-09 20:20:08,007	select_tracks  	 659	DEBUG   	38676:	Re-indexing
+2023-03-09 20:20:08,007	select_tracks  	 674	INFO    	38676:	Tracks before initial cleanup: 144, after: 143, loss: 0.6944%, data frame entries before: 9177, after: 9082, loss: 1.0352%
+2023-03-09 20:20:08,010	select_tracks  	 690	INFO    	38676:	Area quartiles: 10%: 4.00, 90%: 76.15
+2023-03-09 20:20:08,018	select_tracks  	 705	INFO    	38676:	25/75 % Distance quartiles: 0.995, 4.241 upper outliers: 13.979 counts: 261, of all entries: 2.8738%
+2023-03-09 20:20:08,019	select_tracks  	 723	DEBUG   	38676:	Starting with fine selection
+2023-03-09 20:20:08,364	select_tracks  	 777	INFO    	38676:	All tracks before fine selection: 143, left over: 92, difference: 51
+2023-03-09 20:20:08,364	select_tracks  	 797	INFO    	38676:	Total: 143; size < 600: 0; holes > 6: 0; distance outlier: 0; duration 5% over size: 0; area out of bounds: 3; ratio wrong: 26; screen edge: 22; passed: 92
+2023-03-09 20:20:08,366	select_tracks  	 815	DEBUG   	38676:	Resetting df
+2023-03-09 20:20:08,407	save_df_to_csv 	1375	DEBUG   	38676:	Selected results saved to: D:\Projects\YSMR_CellSeg\video\2303092020_Results\SIM+_selected_data.csv
+2023-03-09 20:20:08,408	evaluate_tracks	 881	DEBUG   	38676:	Calculating x_delta, y_delta, t_delta, travelled_dist
+2023-03-09 20:20:08,416	evaluate_tracks	 907	DEBUG   	38676:	Starting with statistical calculations per track
+2023-03-09 20:20:10,878	angle_distribut	  89	DEBUG   	38676:	Saving figure D:\Projects\YSMR_CellSeg\video\2303092020_Results\SIM+_angle_histogram.png
+2023-03-09 20:20:11,075	save_df_to_csv 	1375	DEBUG   	38676:	Selected results saved to: D:\Projects\YSMR_CellSeg\video\2303092020_Results\SIM+_statistics.csv
+2023-03-09 20:20:11,078	evaluate_tracks	1113	INFO    	38676:	Nonmotile: 100.00%, twitching: 0.00%, motile: 0.00%
+2023-03-09 20:20:11,079	evaluate_tracks	1118	DEBUG   	38676:	Time duration of selected tracks min: 0.100, max: 1.280, Quantiles (25/50/75%): 0.635, 1.080, 1.280
+2023-03-09 20:20:11,234	save_df_to_csv 	1375	DEBUG   	38676:	Selected results saved to: D:\Projects\YSMR_CellSeg\video\2303092020_Results\SIM+_fortracks.csv
+2023-03-09 20:20:11,962	large_xy_plot  	 187	DEBUG   	38676:	Saving figure D:\Projects\YSMR_CellSeg\video\2303092020_Results\SIM+_Bac_Run_Overview.png
+2023-03-09 20:20:12,654	rose_graph     	 256	DEBUG   	38676:	Saving figure D:\Projects\YSMR_CellSeg\video\2303092020_Results\SIM+_rose_graph.png
+2023-03-09 20:20:12,906	violin_plot    	 364	DEBUG   	38676:	Saving figure D:\Projects\YSMR_CellSeg\video\2303092020_Results\SIM+_turning_points.png
+2023-03-09 20:20:13,152	violin_plot    	 364	DEBUG   	38676:	Saving figure D:\Projects\YSMR_CellSeg\video\2303092020_Results\SIM+_distance.png
+2023-03-09 20:20:13,382	violin_plot    	 364	DEBUG   	38676:	Saving figure D:\Projects\YSMR_CellSeg\video\2303092020_Results\SIM+_speed.png
+2023-03-09 20:20:13,624	violin_plot    	 364	DEBUG   	38676:	Saving figure D:\Projects\YSMR_CellSeg\video\2303092020_Results\SIM+_time_plot.png
+2023-03-09 20:20:13,875	violin_plot    	 364	DEBUG   	38676:	Saving figure D:\Projects\YSMR_CellSeg\video\2303092020_Results\SIM+_displacement.png
+2023-03-09 20:20:14,096	violin_plot    	 364	DEBUG   	38676:	Saving figure D:\Projects\YSMR_CellSeg\video\2303092020_Results\SIM+_perc_motile.png
+2023-03-09 20:20:14,339	violin_plot    	 364	DEBUG   	38676:	Saving figure D:\Projects\YSMR_CellSeg\video\2303092020_Results\SIM+_arc-chord_ratio.png
+2023-03-09 20:20:14,415	save_df_to_csv 	1375	DEBUG   	38676:	Selected results saved to: D:\Projects\YSMR_CellSeg\video\2303092020_Results\SIM+_analysed.csv
+2023-03-09 20:20:15,047	annotate_video 	1378	DEBUG   	38676:	Frames from file SIM+.avi read.
+2023-03-09 20:20:15,049	annotate_video 	1433	DEBUG   	38676:	Output video file: D:\Projects\YSMR_CellSeg\video\2303092020_Results\SIM+_annotated_output.mp4
